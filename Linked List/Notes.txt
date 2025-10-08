@@ -1,3 +1,12 @@
 - Remove Duplicates from Sorted List
 
 - Remove Duplicates from Sorted List II 
+
+ - Symmetric Tree
+ - Balanced Tree
+
+  - Inorder Traversal
+ - Same Tree
+
+ - Delete Node in a Linked List
+- Remove Linked List Elements
