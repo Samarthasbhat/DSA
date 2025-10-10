@@ -10,3 +10,6 @@
 
  - Delete Node in a Linked List
 - Remove Linked List Elements
+
+-Longest Consecutive Sequence
+- Reverse Linked List
